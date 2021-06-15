@@ -42,6 +42,7 @@ public class QN485 {
     public static void main(String[] args) {
 //        int[] arr = {1, 1, 0, 1, 1, 1};
         int[] arr = {1,0,1,1,0,1};
+
         int maxConsecutiveOnes = findMaxConsecutiveOnes(arr);
         System.out.println(maxConsecutiveOnes);
     }
