@@ -40,7 +40,7 @@
  * @date 2021/6/16
  * @since 1.0.0
  */
-public class QN27 {
+public class QN27Array {
 
     public static int removeElement(int[] nums, int val) {
         //校验数组
