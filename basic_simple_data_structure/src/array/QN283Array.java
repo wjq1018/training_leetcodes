@@ -1,3 +1,5 @@
+package array;
+
 /**
  * 移动零
  * 给定一个数组 nums，编写一个函数将所有 0 移动到数组的末尾，同时保持非零元素的相对顺序。
@@ -13,7 +15,7 @@
  * @date 2021/6/16 22:36
  * @since 1.0.0
  */
-public class QN283 {
+public class QN283Array {
 
     public static void moveZeroes(int[] nums) {
 

@@ -1,3 +1,5 @@
+package array;
+
 /**
  * 给定一个二进制数组， 计算其中最大连续 1 的个数。
  * 示例：
@@ -14,7 +16,7 @@
  * @date 2021/6/15 13:09
  * @since 1.0.0
  */
-public class QN485Array {
+public class  QN485Array {
 
     public static int findMaxConsecutiveOnes(int[] nums) {
         //如果为空或者为null,返回值为0
