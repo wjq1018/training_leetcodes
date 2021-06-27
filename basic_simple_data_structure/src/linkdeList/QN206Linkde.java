@@ -5,7 +5,7 @@ package linkdeList;
  * @date 2021/6/20 0:08
  * @since 1.0.0
  **/
-public class QN206 {
+public class QN206Linkde {
 
     public static void main(String[] args) {
         ListNode nodestr = new ListNode(0); //创建首结点
