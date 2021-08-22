@@ -11,6 +11,7 @@
     <modules>
         <module>1-100</module>
         <module>401-500</module>
+        <module>algorithm</module>
     </modules>
     <profiles>
         <profile>

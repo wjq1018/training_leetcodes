@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1-100/1-100.iml" filepath="$PROJECT_DIR$/1-100/1-100.iml" />
       <module fileurl="file://$PROJECT_DIR$/401-500/401-500.iml" filepath="$PROJECT_DIR$/401-500/401-500.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic_simple_data_structure/basic_simple_data_structure.iml" filepath="$PROJECT_DIR$/basic_simple_data_structure/basic_simple_data_structure.iml" />
       <module fileurl="file://$PROJECT_DIR$/training_leetcodes.iml" filepath="$PROJECT_DIR$/training_leetcodes.iml" />
     </modules>
